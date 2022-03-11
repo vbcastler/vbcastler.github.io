@@ -1,2 +1,0 @@
-# vbcastler.github.io
-Bakimappdev
